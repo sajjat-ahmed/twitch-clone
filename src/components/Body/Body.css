@@ -1,0 +1,8 @@
+.body {
+    background-color: rgb(255, 153, 0);
+    flex: 1;
+    display: flex;
+    height: 100vh;
+    overflow: scroll;
+    overflow: hidden;
+}
