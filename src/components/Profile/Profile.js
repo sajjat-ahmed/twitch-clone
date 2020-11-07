@@ -58,7 +58,24 @@ function Profile() {
 
                 <div className="profile__categories">
                     <h2>Ninja's recently stremed Catagories</h2>
-                    <img src="https://static-cdn.jtvnw.net/ttv-boxart/VALORANT-285x380.jpg" alt=""/>
+                    <div className="profile__categoriesRecently">
+                        <div style={{margin: '0'}}>
+                            <img src="https://static-cdn.jtvnw.net/ttv-boxart/VALORANT-285x380.jpg" alt=""/>
+                            <h3>VALORANT</h3>
+                        </div>
+                        <div>
+                            <img src="https://static-cdn.jtvnw.net/ttv-boxart/Apex%20Legends-285x380.jpg" alt=""/>
+                            <h3>Apex</h3>
+                        </div>
+                        <div>
+                            <img src="https://static-cdn.jtvnw.net/ttv-boxart/Among%20Us-285x380.jpg" alt=""/>
+                            <h3>Among US</h3>
+                        </div>
+                        <div>
+                            <img src="https://static-cdn.jtvnw.net/ttv-boxart/League%20of%20Legends-285x380.jpg" alt=""/>
+                            <h3>Legue of Legends</h3>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

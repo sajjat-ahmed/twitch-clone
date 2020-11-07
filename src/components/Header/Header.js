@@ -1,6 +1,7 @@
 import { Avatar } from '@material-ui/core';
 import React from 'react';
 import './Header.css';
+import Pic from './sajjat.jpg';
 
 const Header = () => {
     return (
@@ -37,7 +38,7 @@ const Header = () => {
                         <h4>Get Bits</h4>
                     </div>
 
-                    <Avatar />
+                    <Avatar src={Pic} />
                 </div>
             </div>
         </div>

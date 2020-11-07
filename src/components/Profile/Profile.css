@@ -21,7 +21,6 @@
   border-radius: 50px;
   padding: 3px;
 }
-
 .profile__topRight {
   font-size: 30px;
 }
@@ -89,4 +88,14 @@
 
 .profile__categories > h3 {
   margin-top: 10px;
+}
+
+.profile__categoriesRecently {
+  display: flex;
+  cursor: pointer;
+}
+
+.profile__categoriesRecently > div {
+  margin-left: 20px;
+  margin-bottom: 100px;
 }

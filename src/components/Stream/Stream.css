@@ -1,0 +1,53 @@
+.stream {
+  height: 30%;
+  display: grid;
+  place-items: center;
+}
+
+.stream__container {
+  display: flex;
+}
+
+.stream__status {
+  width: 400px;
+  height: 295px;
+  background-color: #1f1f23;
+  margin-right: 30px;
+}
+
+.stream__statusContainer {
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+  height: 245px;
+}
+
+.stream__containerIndicator {
+  background-color: white;
+  color: #1f1f23;
+  border-radius: 8px;
+  width: fit-content;
+  padding: 5px 10px;
+}
+
+.stream__statusContainerTop {
+  flex: 1;
+}
+
+.stream__StatueInfo {
+  display: flex;
+  align-items: center;
+}
+
+.stream__StatueInfo > i {
+  margin-right: 20px;
+}
+
+.stream__status > div > h2 {
+  font-size: 35px;
+}
+
+.stream__video {
+  height: 295px;
+  width: 500px;
+}
