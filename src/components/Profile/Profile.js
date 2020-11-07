@@ -24,7 +24,7 @@ function Profile() {
                 <h2>About</h2>
                 <h2>Schedule</h2>
                 <h2>Video</h2>
-                <h1><i className="fas fa-arrow-up"></i></h1>
+                <h2><i className="fas fa-arrow-up"></i></h2>
                 <h2>Chat</h2>
             </div>
             <div className="profile__recent">

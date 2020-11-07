@@ -53,11 +53,15 @@
   color: #a970ff;
 }
 
-.profile__menu > h1 > i {
+.profile__menu > h2 > i {
   transform: rotate(45deg);
   margin-right: -5px;
   margin-right: 5px;
   font-size: 30px;
+}
+
+.profile__menu > h2 > i:hover {
+  color: #a970ff;
 }
 
 .profile__menu > .active {
