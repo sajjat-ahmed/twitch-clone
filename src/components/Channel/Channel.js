@@ -7,7 +7,7 @@ function Channel({ avatar, name, followers }) {
         <div className="channel">
             <div className="channel__details">
                 <Avatar src={avatar} />
-                <p>{name}</p>
+                <p style={{marginLeft: '10px'}}>{name}</p>
             </div>
             <p>🔴{followers}</p>
         </div>

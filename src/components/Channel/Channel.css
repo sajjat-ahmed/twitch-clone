@@ -1,24 +1,24 @@
 .channel {
-    cursor: pointer;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 15px;
-    margin-bottom: 15px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .channel:hover {
-    background-color: #25252c;
+  background-color: #25252c;
 }
 
 .channel__details {
-    display: flex;
-    align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .channel > div > img {
-    object-fit: contain;
-    margin-right: 5px;
-    width: 40px;
-    border-radius: 50%;
+  object-fit: contain;
+  margin-right: 5px;
+  width: 40px;
+  border-radius: 50%;
 }

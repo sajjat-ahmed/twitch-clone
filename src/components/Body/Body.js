@@ -5,10 +5,10 @@ import './Body.css';
 function Body() {
     return (
         <div className="body">
-            <div className="body--left">
+            <div className="body__left">
                 <Profile />
             </div>
-            <div className="body_rightPlaceHolder">
+            <div className="body__rightPlaceHolder">
                 
             </div>
         </div>
