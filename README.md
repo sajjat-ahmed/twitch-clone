@@ -1,6 +1,6 @@
 # Twitch clone
 # https://twitch-cln.netlify.app/
-Building Amazon-clone Application Using `React` and `Flexbox`
+Building Amazon-clone Application Using `React`, `Flexbox`, `CSS3` and `Flexbox`
 
 
 
